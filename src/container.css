@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    flex-direction: column; /* Stack components vertically */
+  }
+  
+  .component {
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+  }

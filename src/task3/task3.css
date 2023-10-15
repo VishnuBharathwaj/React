@@ -1,0 +1,44 @@
+
+.color-picker {
+    text-align: center;
+    margin: 20px;
+    height: 80vh;
+  }
+  h1{
+    text-align: center;
+  }
+  
+  .button-cls {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 20px;
+    width: 10vw;
+  }
+  
+  .color-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .color-option {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    margin: 5px;
+    border : 1px solid black;
+  }
+  
+  .selected-color {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .color-box {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+  }
+  
